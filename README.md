@@ -1,1 +1,2 @@
 # odin-recipes
+The website will consist of a main index page which will have links to a few recipes. The website won’t look very pretty, but it'll be important to practice my HTML skills that i've learned so far :).
