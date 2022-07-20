@@ -1,0 +1,19 @@
+body {
+    background-color: #F4EBD0;
+    color:#122620;
+    font-family: Georgia, Times, serif;
+    text-align: center;
+}
+
+.gold {
+    background-color: #D6AD60;
+}
+
+img {
+    height: auto;
+    width: 500px;
+}
+
+.not-centered {
+    text-align: left;
+}
